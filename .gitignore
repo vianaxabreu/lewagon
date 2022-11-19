@@ -1,7 +1,8 @@
 # OS generated files #
 ######################
-.DS_Store
+*.DS_Store
 __MACOSX
+*.sqlite
 
 # Jupiter Notebook #
 .pytest_cache
